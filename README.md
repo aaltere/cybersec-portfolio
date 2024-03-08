@@ -1,2 +1,2 @@
 # cybersec-portfolio
-Portfolio for Cybersecurity for employers
+Cybersecurity Portfolio for employers
